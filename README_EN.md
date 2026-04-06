@@ -131,6 +131,7 @@ The person reading your email is not the company. They might even agree with you
 ## Credits
 
 Inspired by [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill).  
+Companion project: [Schlaflied/hr-skill](https://github.com/Schlaflied/hr-skill) — the HR side: generate rejections, layoff scripts, interview scripts.  
 Raw material provided by everyone who has ever been politely ignored.
 
 ---

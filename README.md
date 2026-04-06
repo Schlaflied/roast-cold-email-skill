@@ -129,6 +129,7 @@ pip install google-auth google-auth-oauthlib google-api-python-client
 ## 致谢
 
 灵感来自 [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill)。  
+配套使用：[Schlaflied/hr-skill](https://github.com/Schlaflied/hr-skill) — 站HR视角，生成拒信/开人/面试话术。  
 原材料来自每一个被礼貌无视过的求职者。
 
 ---
