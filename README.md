@@ -12,6 +12,8 @@
 
 You've been politely ignored long enough.
 
+[功能](#功能) · [安装](#安装) · [使用方法](#使用方法) · [骂人博物馆](museum.md) · [自定义Persona](personas/) · [SKILL_EN.md](SKILL_EN.md) · [**English**](README_EN.md)
+
 ---
 
 ## 这是什么
@@ -35,6 +37,8 @@ You've been politely ignored long enough.
 | **研究模式** | 用 Tavily 搜索公司最近的公开信息、招聘动态、技术债 |
 | **邮件生成** | 根据公司类型匹配钩子，生成定制化邮件草稿 |
 | **Gmail 小号发送** | 通过 Google OAuth + Gmail API 用小号发送，主号不沾手 |
+| **骂人博物馆** | 收集真实世界中有效的批评式冷邮件案例，欢迎社区投稿，见 [museum.md](museum.md) |
+| **自定义 Persona** | 根据行业和语气选择不同的发件人人设，见 [personas/](personas/) |
 
 ---
 

@@ -14,6 +14,8 @@ You sent your resume. Three weeks later, you got nothing. You wrote a perfectly 
 
 Here's the thing: they didn't ignore you because you weren't qualified. They ignored you because you sounded like everyone else.
 
+[Features](#features) · [Installation](#installation) · [Usage](#usage) · [Roast Museum](museum.md) · [Custom Personas](personas/) · [SKILL.md](SKILL.md) · [中文](README.md)
+
 ---
 
 ## What This Is
@@ -37,6 +39,8 @@ This skill researches your target company, matches the right hook, writes a draf
 | **Research mode** | Searches company pain points, hiring trends, and technical debt via Tavily |
 | **Email generation** | Matches company type to hook, generates a sharp, targeted draft |
 | **Gmail burner sending** | Sends via Google OAuth + Gmail API — your main account stays clean |
+| **Roast Museum** | A community-sourced archive of cold emails that actually worked. Submit via issue. See [museum.md](museum.md) |
+| **Custom Personas** | Choose a sender persona based on industry and tone. See [personas/](personas/) |
 
 ---
 
