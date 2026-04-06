@@ -1,20 +1,20 @@
+<div align="center">
+
 # roast-cold-email
 
-[中文](README.md) · [English](README_EN.md) · [SKILL_EN.md](SKILL_EN.md)
+> *You sent your resume. Three weeks later, you got nothing.*<br>
+> *You wrote a perfectly worded thank-you email. They didn't open it.*<br>
+> *You said "I'm deeply passionate about your mission." They hired someone else.*<br>
+> <br>
+> **You've been politely ignored long enough.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![AgentSkills Standard](https://img.shields.io/badge/AgentSkills-Standard-blue)](https://github.com/titanwings/colleague-skill)
 
----
-
-You've been politely ignored long enough.
-
-You sent your resume. Three weeks later, you got nothing. You wrote a perfectly worded thank-you email. They didn't open it. You said "I'm deeply passionate about your mission." They hired someone else.
-
-Here's the thing: they didn't ignore you because you weren't qualified. They ignored you because you sounded like everyone else.
-
 [Features](#features) · [Installation](#installation) · [Usage](#usage) · [Roast Museum](museum.md) · [Custom Personas](personas/) · [SKILL.md](SKILL.md) · [中文](README.md)
+
+</div>
 
 ---
 

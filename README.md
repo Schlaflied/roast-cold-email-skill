@@ -1,18 +1,20 @@
+<div align="center">
+
 # roast-cold-email
 
-[中文](README.md) · [English](README_EN.md) · [SKILL_EN.md](SKILL_EN.md)
+> *你把简历投出去，等了三周，收到了已读不回。*<br>
+> *你写了一封措辞完美的感谢信，对方没有打开。*<br>
+> *你说"我对贵司充满热情"，他们选了另一个人。*<br>
+> <br>
+> **You've been politely ignored long enough.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![AgentSkills Standard](https://img.shields.io/badge/AgentSkills-Standard-blue)](https://github.com/titanwings/colleague-skill)
 
----
-
-你把简历投出去，等了三周，收到了已读不回。你写了一封措辞完美的感谢信，对方没有打开。你说"我对贵司充满热情"，他们选了另一个人。
-
-You've been politely ignored long enough.
-
 [功能](#功能) · [安装](#安装) · [使用方法](#使用方法) · [骂人博物馆](museum.md) · [自定义Persona](personas/) · [SKILL_EN.md](SKILL_EN.md) · [**English**](README_EN.md)
+
+</div>
 
 ---
 
